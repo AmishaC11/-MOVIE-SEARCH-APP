@@ -62,4 +62,4 @@ This project also emphasized the importance of code modularity, efficient data h
 
 #OUTPUT: 
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/56da4049-ac88-4a10-b809-52d6752b14c4" />
